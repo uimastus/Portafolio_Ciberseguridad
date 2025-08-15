@@ -1,6 +1,6 @@
 # 🔐 Portafolio de Ciberseguridad – Juan Pablo Tovar
 
-Bienvenido a mi portafolio como estudiante de Ingeniería en Software y Redes, con especialización en ciberseguridad. Aquí encontrarás proyectos, certificaciones y recursos que reflejan mi formación técnica y compromiso con la protección digital.
+Bienvenido a mi portafolio como estudiante de Ingeniería en Software y Redes, con especialización en ciberseguridad como analista principiante. Aquí encontrarás proyectos, certificaciones y recursos que reflejan mi formación técnica y compromiso con la protección digital.
 Me entusiasma la seguridad de la información y disfruto encontrando soluciones que puedan repercutir positivamente en una organización y en las personas a las que sirve. Valoro mucho mantener una postura de seguridad sólida para ayudar a proteger la información sensible y mitigar los riesgos.
 
 ## 🧠 Sobre mí
