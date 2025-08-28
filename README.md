@@ -164,6 +164,17 @@ Juguetes x presenta fortalezas en disponibilidad, integridad y seguridad física
 
 > Esta lista forma parte de mi portafolio académico como evidencia de mi capacidad para aplicar el NIST CSF, realizar auditorías internas y evaluar controles y cumplimiento en entornos empresariales.
 
+## 📊 Visualización de Auditoría – Juguetes x
+
+Este dashboard interactivo muestra el estado de cumplimiento por categoría, basado en una auditoría simulada de ciberseguridad aplicada al caso Botium Toys. Utiliza el Marco de Ciberseguridad del NIST (CSF) y refleja mi capacidad para evaluar controles técnicos, administrativos y físicos.
+
+🔗 [Ver dashboard en Tableau Public](https://public.tableau.com/views/EstadodeSeguridadTI-SimulacinJuguetesx/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+Incluye:
+- Porcentaje de cumplimiento por categoría
+- Evaluación visual de controles implementados
+- Mapa de calor de cumplimiento normativo
+
 
 ## 🧠 Sobre mí
 - Egreso previsto: diciembre de 2025
